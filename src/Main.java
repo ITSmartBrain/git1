@@ -8,6 +8,7 @@ public class Main {
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println("result = " + a%b);
+        System.out.println("result = " + Math.pow(a,b));
         System.out.println(Math.sqrt(a));
 
     }
