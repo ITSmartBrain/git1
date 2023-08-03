@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Enter b: ");
         int b = scn.nextInt();
         System.out.println(a+b);
-        System.out.println(" Ğåçóëüòàò: " + a-b);
+        System.out.println("Ğ ĞµĞ·ÑƒĞ»ÑŒÑ‚Ğ°Ñ‚: " + a-b);
 
         //code review
         //reviewer
