@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Результат: " + (a-b));
         System.out.println("Результат: " + (a*b));
         System.out.println("Результат: " + (a/b));
+        System.out.println("Результат: " + (Math.sqrt(a)));
         System.out.println("Результат: " + (a*a));
 
         //code review
