@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Enter b: ");
         int b = scn.nextInt();
         System.out.println(a+b);
+        System.out.println("Результат: " + a-b);
 
         //code review
         //reviewer
