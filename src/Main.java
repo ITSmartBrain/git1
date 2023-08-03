@@ -9,6 +9,7 @@ public class Main {
         int b = scn.nextInt();
         System.out.println(a+b);
         System.out.println("Результат: " + (a-b));
+        System.out.println("Результат: " + (a*b));
 
         //code review
         //reviewer
